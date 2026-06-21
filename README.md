@@ -1,2 +1,2 @@
 # pH-Image-Analysis-Exemplar-App
-This is the exemplar app for the pH-Image-Analysis base repository.
+This is the exemplar app (answer key) for the pH-Image-Analysis repository. Only teachers should have access to this exemplar app.
